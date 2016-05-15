@@ -466,3 +466,70 @@ h3 {
     padding-bottom: 8px;
     font-size: 19px;
   }
+
+@media screen and (max-width: 980px) {
+	body {
+		background-color: #333;
+	}
+	.container {
+		width: 100%;
+		padding: 20px;
+	}
+	.three {
+		width: 100%;
+		padding: 20px;
+	}
+	.three2 {
+		width: 100%;
+		padding: 20px;
+	}
+	.three3 {
+		width: 100%;
+		padding: 20px;
+	}
+}
+@media screen and (max-width: 768px) {
+	body {
+		background-color: #333;
+	}
+	.container {
+		width: 100%;
+		padding: 20px;
+	}
+	.three {
+		width: 100%;
+		padding: 20px;
+	}
+	.three2 {
+		width: 100%;
+		padding: 20px;
+	}
+	.three3 {
+		width: 100%;
+		padding: 20px;
+	}
+}
+@media screen and (max-width: 640px) {
+	body {
+		background-color: #333;
+	}
+	.container {
+		width: 100%;
+		padding: 20px;
+	}
+	.three {
+		width: 100%;
+		padding: 20px;
+	}
+	.three2 {
+		width: 100%;
+		padding: 20px;
+	}
+	.three3 {
+		width: 100%;
+		padding: 20px;
+	}
+	.header {
+		position: static;
+	}
+}
