@@ -466,70 +466,272 @@ h3 {
     padding-bottom: 8px;
     font-size: 19px;
   }
-
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 1473px){	
 	body {
-		background-color: #333;
+		background-color: white;
 	}
 	.container {
-		width: 100%;
-		padding: 20px;
+		background-color: blue;
 	}
-	.three {
-		width: 100%;
-		padding: 20px;
+	.links {
+		margin-right: 50%;
+	}	
+	#about, #portfolio, #contact {
+	float: left;
 	}
-	.three2 {
-		width: 100%;
-		padding: 20px;
-	}
-	.three3 {
-		width: 100%;
-		padding: 20px;
+	.header {
+		margin-left: 15%;
 	}
 }
-@media screen and (max-width: 768px) {
-	body {
-		background-color: #333;
+@media screen and (max-width: 1438px) {
+	.header{
+		margin-left: 10%;
 	}
+@media screen and (max-width: 1260px) {
+	.connect3 {
+		position: absolute;
+		margin-left: 70%;
+	}
+	.header{
+		margin-left: 5%;
+	}
+	.links{
+		background-color: white;
+		margin-top: 3px;
+		margin-right: 74%;
+	}
+}
+@media screen and (max-width: 1122px) {
+	.connect3 {
+		position: absolute;
+		margin-left: 70%;
+	}
+	.header{
+		margin-left: 5%;
+	}
+	.links{
+		background-color: white;
+		margin-top: 3px;
+		margin-right: 74%;
+	}
+}
+@media screen and (max-width: 1080px) {
+	.connect3 {
+		position: absolute;
+		margin-left: 70%;
+	}
+	.header{
+		margin-left: 5%;
+	}
+	.links{
+		background-color: white;
+		margin-top: 3px;
+		margin-right: 70%;
+	}
+}
+@media screen and (max-width: 1056px) {
 	.container {
-		width: 100%;
-		padding: 20px;
+		padding-bottom: 112%;
 	}
-	.three {
-		width: 100%;
-		padding: 20px;
-	}
-	.three2 {
-		width: 100%;
-		padding: 20px;
+	.links{
+		background-color: white;
+		margin-top: 3px;
+		margin-right: 70%;
 	}
 	.three3 {
+		margin-left: 30%;
+		padding-right: 340px;
+		margin-top: 15%;
+	}
+	.header {
+		margin-left: 5%;
+	}
+	.footer3 {
 		width: 100%;
-		padding: 20px;
+		padding-left: 1px;
+		padding-right: 1px;
+		margin-top: 850px;
+	}
+	.connect3 {
+		margin-top: -3%;
+		margin-left: 20%;
+	}
+}
+@media screen and (max-width: 1032px) {
+	.links{
+		background-color: white;
+	}
+	.three3 {
+		margin-left: 25%;
+		padding-right: 340px;
+	}
+	.header {
+		margin-left: 5%;
+	}
+	.connect3 {
+		margin-top: -3%;
+		margin-left: 20%;
+}
+@media screen and (max-width: 980px) {
+	.links{
+		background-color: white;
+		margin-right: 70%
+		margin-top: 3px;
+	}
+	.three3 {
+		margin-left: 20%;
+	}
+	.header {
+		margin-left: 5%;
+	}
+	.connect3 {
+		margin-top: -3%;
+		margin-left: 20%;
+	}
+}
+@media screen and (max-width: 949px) {
+	.links{
+		background-color: white;
+		margin-right: 75%
+		margin-top: 3px;
+	}
+	.three3 {
+		margin-left: 10%;
+	}
+	.connect3 {
+		margin-top: -3%;
+		margin-left: 20%;
+	}
+}
+@media screen and (max-width: 872px) {
+	.container {
+		padding-bottom: 112%;
+	}
+	.links{
+		background-color: white;
+		margin-right: 65%;
+		margin-top: 3px;
+	}
+	.three3 {
+		margin-left: 5%;
+		margin-top: 15%;
+	}
+	.connect3 {
+		margin-top: -3%;
+		margin-left: 20%;
+	}
+	.footer3 {
+		width: 100%;
+		padding-left: 1px;
+		padding-right: 1px;
+		margin-top: 850px;
+}
+@media screen and (max-width: 768px) {
+	.container {
+		padding-bottom: 120%;
+	}
+	.links{
+		background-color: white;
+		margin-right: 60%;
+		margin-top: 3px;
+	}
+	.three3 {
+		margin-left: 5%;
+		margin-top: 15%;
+	}
+	.connect3 {
+		margin-top: -3%;
+		margin-left: 20%;
+	}
+	.footer3 {
+		width: 100%;
+		padding-left: 1px;
+		padding-right: 1px;
+		margin-top: 850px;
+	}
+}
+@media screen and (max-width: 730px) {
+	.container {
+		padding-bottom: 130%;
+	}
+	.header {
+		margin-left: 30%;
+	}
+	.links {
+		margin-right: 35%;
 	}
 }
 @media screen and (max-width: 640px) {
-	body {
-		background-color: #333;
-	}
 	.container {
-		width: 100%;
-		padding: 20px;
-	}
-	.three {
-		width: 100%;
-		padding: 20px;
-	}
-	.three2 {
-		width: 100%;
-		padding: 20px;
-	}
-	.three3 {
-		width: 100%;
-		padding: 20px;
+		padding-bottom: 150%;
 	}
 	.header {
-		position: static;
+		margin-left: 30%;
+	}
+	.links {
+		margin-right: 35%;
+	}
+	.three3 {
+		margin-left: 1%;
+	}
+}
+@media screen and (max-width: 585px) {
+	.container {
+		padding-bottom: 170%;
+	}
+	.header {
+		margin-left: 30%;
+	}
+	.links {
+		margin-right: 35%;
+	}
+	.three3 {
+		margin-left: -10%;
+		display: inline-block;
+	}
+}
+@media screen and (max-width: 519px) {
+	.container {
+		padding-bottom: 180%;
+	}
+	.header {
+		margin-left: 30%;
+	}
+	.links {
+		margin-right: 20%;
+	}
+	.three3 {
+		margin-left: -20%;
+		display: inline-block;
+	}
+}
+@media screen and (max-width: 491px) {
+	.container {
+		padding-bottom: 200%;
+	}
+	.header {
+		margin-left: 30%;
+	}
+	.links {
+		margin-right: 15%;
+	}
+	.three3 {
+		margin-left: -20%;
+		display: inline-block;
+	}
+}
+@media screen and (max-width: 465px) {
+	.container {
+		padding-bottom: 210%;
+	}
+	.header {
+		margin-left: 30%;
+	}
+	.links {
+		margin-right: 10%;
+	}
+	.three3 {
+		margin-left: -20%;
+		display: inline-block;
 	}
 }
