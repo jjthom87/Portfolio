@@ -47,3 +47,25 @@
 #arrow2 {
 	font-size: 40px;
 }
+#jaredpic {
+    width: 200px;
+    height: 200px;
+    background: red;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+    transition: width 2s, height 2s, transform 2s;
+}
+
+#jaredpic:hover {
+    width: 400px;
+    height: 400px;
+    -webkit-transform: rotate(360deg); /* Safari */
+    transform: rotate(360deg);
+}
+#footer {
+    text-shadow: 2px 2px 5px blue;
+    font-size: 16px;
+    color: #68d6b3;
+}
+#stack {
+	padding-left: 10px;
+}
