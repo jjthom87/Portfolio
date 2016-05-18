@@ -502,6 +502,12 @@ h3 {
 		padding-right: 1px;
 		margin-top: 770px;
 	}
+	.footer2 {
+		width: 100%;
+		padding-left: 1px;
+		padding-right: 1px;
+		margin-top: 770px;
+	}
 }
 @media screen and (max-width: 1473px){	
 	.links {
@@ -530,6 +536,12 @@ h3 {
 	.header{
 		margin-left: 10%;
 	}
+@media screen and (max-width: 1269px) {
+	.three4 {
+		position: absolute;
+		margin-left: 40%;
+	}
+	}
 @media screen and (max-width: 1260px) {
 	.connect3 {
 		position: absolute;
@@ -554,6 +566,20 @@ h3 {
 	}
 	.connect {
 		margin-right: -90%;
+	}
+}
+}
+@media screen and (max-width: 1128px) {
+	.three2 {
+		margin-left: 10%;
+		margin-top: 10%;
+		padding-right: 15%;
+	}
+	.three4 {
+		margin-left: 30%;
+	}
+	.email {
+		margin-left: -460px;
 	}
 }
 @media screen and (max-width: 1122px) {
@@ -632,6 +658,16 @@ h3 {
 		margin-left: 20%;
 	}
 }
+@media screen and (max-width: 1040px) {
+	.three2 {
+		margin-left: 10%;
+		margin-top: 10%;
+		padding-right: 15%;
+	}
+	.three4 {
+		margin-left: 32%;
+	}
+}
 @media screen and (max-width: 1032px) {
 	.links{
 		background-color: white;
@@ -664,6 +700,16 @@ h3 {
 		margin-left: 20%;
 	}
 }
+@media screen and (max-width: 972px) {
+	.three2 {
+		margin-left: 10%;
+		margin-top: 10%;
+		padding-right: 15%;
+	}
+	.three4 {
+		margin-left: 33%;
+	}
+}
 @media screen and (max-width: 949px) {
 	.links{
 		background-color: white;
@@ -676,6 +722,13 @@ h3 {
 	.connect3 {
 		margin-top: -3%;
 		margin-left: 20%;
+	}
+}
+@media screen and (max-width: 943px) {
+	.three2 {
+		margin-left: 10%;
+		margin-top: 10%;
+		padding-right: 15%;
 	}
 }
 @media screen and (max-width: 872px) {
