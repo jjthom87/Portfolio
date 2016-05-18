@@ -178,7 +178,16 @@ h5{
 #stack {
 	margin-top: -16px;
 	padding-right: 1px;
-	padding-left: 1px;
+	padding-left: 1px;	
+}
+.container2{
+	background-image: url("green_cup.png");
+	margin-top: 100px;
+	padding: 0px;
+	padding-bottom: 775px;
+	border-top-style: groove;
+	border-top-width: 3px;
+	border-top-color: #DDD;
 }
 .two2 {
 	float: left;
