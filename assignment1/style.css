@@ -673,6 +673,9 @@ h3 {
 	.container {
 		padding-bottom: 112%;
 	}
+	.container1 {
+		padding-bottom: 120%;
+	}
 	.links{
 		background-color: white;
 		margin-right: 65%;
@@ -692,6 +695,9 @@ h3 {
 		padding-right: 1px;
 		margin-top: 850px;
 }
+	footer {
+
+	}
 @media screen and (max-width: 768px) {
 	.container {
 		padding-bottom: 120%;
@@ -728,6 +734,9 @@ h3 {
 	.container {
 		padding-bottom: 130%;
 	}
+	.container1 {
+		padding-bottom: 130%;
+	}
 	.header {
 		margin-left: 30%;
 	}
@@ -750,7 +759,7 @@ h3 {
 		margin-top: 950px;
 	}
 	.three {
-		padding-bottom: 40%;
+		padding-bottom: 20%;
 	}
 }
 @media screen and (max-width: 651px) {
@@ -758,7 +767,7 @@ h3 {
 		padding-bottom: 170%;
 	}
 	.description {
-		width: 160%;
+		width: 190%;
 	}
 	.connect {
 		margin-top: 80%;
@@ -772,7 +781,7 @@ h3 {
 	}
 }
 @media screen and (max-width: 640px) {
-	.container1 {
+	.container {
 		padding-bottom: 180%;
 	}
 	.header {
@@ -783,13 +792,85 @@ h3 {
 	}
 	.three3 {
 		margin-left: 1%;
-		padding-bottom: 100%;
 	}
 	footer {
 		margin-top: 1010px;
 	}
 	.connect {
 		margin-top: 90%;
+	}
+}
+@media screen and (max-width: 630px)  {
+	.connect {
+		position: absolute;
+		margin-top: 48%;
+		margin-left: -10%;
+		width: 34%;
+	}
+	.three {
+		padding-bottom: 48%;
+	}
+}
+@media screen and (max-width: 611px)  {
+	.connect {
+		position: absolute;
+		margin-top: 48%;
+		margin-left: -10%;
+		width: 34%;
+	}
+	.three {
+		padding-bottom: 48%;
+	}
+	.container1 {
+		padding-bottom: 180%;
+	}
+}
+@media screen and (max-width: 608px)  {
+	.connect {
+		position: absolute;
+		margin-top: 48%;
+		margin-left: -10%;
+		width: 35%;
+	}
+	.three {
+		padding-bottom: 48%;
+	}
+	.container1 {
+		padding-bottom: 180%;
+	}
+}
+@media screen and (max-width: 601px)  {
+	.connect {
+		position: absolute;
+		margin-top: 54%;
+		margin-left: -10%;
+		width: 35%;
+	}
+	.three {
+		padding-bottom: 60%;
+	}
+	.container1 {
+		padding-bottom: 190%;
+	}
+	footer {
+		margin-top: 1085px;
+	}
+}
+@media screen and (max-width: 590px)  {
+	.connect {
+		position: absolute;
+		margin-top: 54%;
+		margin-left: -10%;
+		width: 36%;
+	}
+	.three {
+		padding-bottom: 60%;
+	}
+	.container1 {
+		padding-bottom: 200%;
+	}
+	footer {
+		margin-top: 1085px;
 	}
 }
 @media screen and (max-width: 585px) {
@@ -805,6 +886,108 @@ h3 {
 	.three3 {
 		margin-left: -10%;
 		display: inline-block;
+	}
+}
+@media screen and (max-width: 576px)  {
+	.connect {
+		position: absolute;
+		margin-top: 62%;
+		margin-left: -10%;
+		width: 37%;
+	}
+	.three {
+		padding-bottom: 70%;
+	}
+	.container1 {
+		padding-bottom: 220%;
+	}
+	footer {
+		margin-top: 1150px;
+	}
+}
+@media screen and (max-width: 560px)  {
+	.connect {
+		position: absolute;
+		margin-top: 68%;
+		margin-left: -10%;
+		width: 38%;
+	}
+	.three {
+		padding-bottom: 75%;
+	}
+	.container1 {
+		padding-bottom: 240%;
+	}
+	footer {
+		margin-top: 1200px;
+	}
+}
+@media screen and (max-width: 549px)  {
+	.connect {
+		position: absolute;
+		margin-top: 75%;
+		margin-left: -10%;
+		width: 39%;
+	}
+	.three {
+		padding-bottom: 80%;
+	}
+	.container1 {
+		padding-bottom: 250%;
+	}
+	footer {
+		margin-top: 1240px;
+	}
+}
+@media screen and (max-width: 538px)  {
+	.connect {
+		position: absolute;
+		margin-top: 85%;
+		margin-left: -10%;
+		width: 39%;
+	}
+	.three {
+		padding-bottom: 90%;
+	}
+	.container1 {
+		padding-bottom: 280%;
+	}
+	footer {
+		margin-top: 1345px;
+	}
+}
+@media screen and (max-width: 532px)  {
+	.connect {
+		position: absolute;
+		margin-top: 85%;
+		margin-left: -10%;
+		width: 40%;
+	}
+	.three {
+		padding-bottom: 90%;
+	}
+	.container1 {
+		padding-bottom: 280%;
+	}
+	footer {
+		margin-top: 1345px;
+	}
+}
+@media screen and (max-width: 518px)  {
+	.connect {
+		position: absolute;
+		margin-top: 85%;
+		margin-left: -10%;
+		width: 41%;
+	}
+	.three {
+		padding-bottom: 90%;
+	}
+	.container1 {
+		padding-bottom: 280%;
+	}
+	footer {
+		margin-top: 1345px;
 	}
 }
 @media screen and (max-width: 519px) {
